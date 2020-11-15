@@ -1,0 +1,14 @@
+{
+  "name": "mindmap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CBD-Lab/mindmap.git",
+  "author": "CBD LAB",
+  "license": "MIT",
+  "dependencies": {
+    "markmap-view": "^0.1.1"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  }
+}
